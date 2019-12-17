@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dff6f9</color>
+    <color name="colorPrimaryDark">#b2ebf2</color>
+    <color name="colorBirdGameBackgroundDark">#336D77</color>
+    <color name="colorPrimaryDark_2">#336D77</color>
+    <color name="colorPrimaryDarkAlpha">#55b2ebf2</color>
+    <color name="colorAccent">#8c9eff</color>
+
+    <color name="colorDivider">#81b9bf</color>
+
+    <color name="colorTextPrimary">#000000</color>
+    <color name="colorTextSecondary">#5c6bc0</color>
+
+    <color name="doneOverlayColor">#AA000000</color>
+</resources>

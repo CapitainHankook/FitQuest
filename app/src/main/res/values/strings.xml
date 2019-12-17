@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Fit Quest</string>
+    <string name="fit_quest_bonus">Bonus Level</string>
+
+    <!--    TODO: translate to English -->
+    <string name="face_emoji_double_eye_close">Зажмуртесь</string>
+    <string name="face_emoji_left_eye_close">Подмигните левым глазом</string>
+    <string name="face_emoji_right_eye_close">Подмигните правым глазом</string>
+    <string name="face_emoji_smile">Улыбнитесь :)</string>
+    <string name="face_emoji_mouth_open">Откройте рот</string>
+
+    <string name="face_emoji_head_bias_left">Наклоните голову влево</string>
+    <string name="face_emoji_head_bias_right">Наклоните голову вправо</string>
+
+    <string name="face_emoji_head_bias_down">Наклоните голову вперед</string>
+    <string name="face_emoji_head_bias_up">Наклоните голову назад</string>
+
+    <string name="face_emoji_head_rotate_left">Поверните голову влево</string>
+    <string name="face_emoji_head_rotate_right">Поверните голову вправо</string>
+
+    <string name="face_emoji_double_eyebrown_move">Подвигайте бровями</string>
+    <string name="face_emoji_correct">Correct!</string>
+
+    <string name="action_for_start_bonus_level">Улыбнитесь, чтобы начать игру :)</string>
+    <string name="move_rules">* Улыбка - стрельба * Наклоны головы - движение персонажа * Зажмуривание - секретное действие</string>
+    <string name="move_title">Управление:</string>
+</resources>

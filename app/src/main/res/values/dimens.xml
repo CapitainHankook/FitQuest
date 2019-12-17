@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="default_padding">12dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+
+    <!--  ВАЖНО! Коэффициент: 0,75 -->
+    <dimen name="camera_view_width">225dp</dimen>
+    <dimen name="camera_view_height">300dp</dimen>
+
+    <dimen name="player_item_height">50dp</dimen>
+</resources>

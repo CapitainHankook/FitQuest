@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "813811865974",
+    "firebase_url": "https://facegame-5d997.firebaseio.com",
+    "project_id": "facegame-5d997",
+    "storage_bucket": "facegame-5d997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813811865974:android:902f4ca7cc8b94f5c48257",
+        "android_client_info": {
+          "package_name": "ru.tzhack.facegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813811865974-jloie6ooj45g1hb4pieddhsps78gprtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOBkpfIRJQdCZ04z_WJpJ61V6LBo3fRWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813811865974-jloie6ooj45g1hb4pieddhsps78gprtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
